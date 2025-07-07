@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-banner.png" alt="IgniteCoders Banner" width="100%" />
+  <img src="Assets/logo-banner.png" alt="IgniteCoders Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there! I'm IgniteCoders 👋</h1>
