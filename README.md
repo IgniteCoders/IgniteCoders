@@ -17,27 +17,27 @@
 
 #### 📱 Android
 <p>
-  <img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=for-the-badge&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Android-Java-007396?style=for-the-badge&logo=android"/>
 </p>
 
 #### 🍏 iOS
 <p>
-  <img src="https://img.shields.io/badge/iOS-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-Objective--C-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-Swift-FA7343?style=for-the-badge&logo=swift"/>
+  <img src="https://img.shields.io/badge/iOS-Objective--C-000000?style=for-the-badge&logo=apple"/>
 </p>
 
 #### 🎮 Game Development
 <p>
-  <img src="https://img.shields.io/badge/Unity-C%23-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-C%23-000000?style=for-the-badge&logo=unity"/>
 </p>
 
 #### 🌐 Web & Backend
 <p>
   <img src="https://img.shields.io/badge/Groovy%20%26%20Grails-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
